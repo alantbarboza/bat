@@ -19,8 +19,8 @@
   - PAUSE: Pausa a execução do script até que o usuário pressione uma tecla.
   - %variavel%: Acessa o valor de uma variável armazenada.
     - exemplo: use a tecla tab (%SendKeys% "{TAB}") para mover o cursor para as entradas de login e senha. 
-  - timeout /t segundos: introduzir um atraso (em segundos).
-  - start: iniciar um novo programa ou abrir um arquivo usando o programa associado a ele
+  - timeout /t segundos: introduz um atraso (em segundos).
+  - start: inicia um novo programa ou abre um arquivo usando o programa associado a ele
     -  start chrome https://google.com/                abre a guia normal do chrome.
     -  start chrome -incognito https://google.com/     abre a guia anônima do chrome.
   
