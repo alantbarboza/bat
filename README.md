@@ -4,7 +4,7 @@
 
 ### Como usar?
 - Abra na pasta onde o arquivo .bat está localizado.
-- Clique no arquivo .bat para visualizá-lo.
+- Clique no arquivo .bat para executá-lo.
 
 ### Como edita?
 - Abra na pasta onde o arquivo .bat está localizado.
