@@ -6,7 +6,7 @@
 - Abra na pasta onde o arquivo .bat está localizado.
 - Clique no arquivo .bat para executá-lo.
 
-### Como edita?
+### Como editar?
 - Abra na pasta onde o arquivo .bat está localizado.
 - Clique com o botão direito em cima do arquivo.bat.
 - Clique em "editar".
